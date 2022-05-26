@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vanya/AndroidStudioProjects/StudentsDateBas/app/src/main/res/layout/activity_choose_group.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Vanya/AndroidStudioProjects/StudentsDateBas/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Vanya/AndroidStudioProjects/StudentsDateBas/app/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/Users/Vanya/AndroidStudioProjects/StudentsDateBas/app/src/main/res/layout/group_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Vanya/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/activity_add_student.xml" value="0.25" />
+        <entry key="..\:/Users/Vanya/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/activity_choose_student.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Vanya/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/activity_main.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/Vanya/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/group_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/drawable/ic_baseline_block_24.xml" value="0.3335" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/activity_add_group.xml" value="0.3170289855072464" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/activity_add_student.xml" value="0.3625" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/activity_addgroup.xml" value="0.33" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/activity_choose_group.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/activity_choose_student.xml" value="0.3625" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/activity_main2.xml" value="0.33783783783783783" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/activity_second.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/edit_dialog.xml" value="0.3170289855072464" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/edit_group_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/edit_student_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/group_item.xml" value="0.33" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/layout/student_item.xml" value="0.3625" />
+        <entry key="..\:/Users/fin20/AndroidStudioProjects/StudentsDateBase2/app/src/main/res/menu/active_bar.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">База данных студентов</string>
+    <string name="add_group">Добавить группу</string>
+    <string name="read_groups">Просмотреть группы</string>
+    <string name="add_student">Добавить студента</string>
+    <string name="read_students">Просмотреть студентов</string>
+    <string name="add_number_of_group">Введите номер группы</string>
+    <string name="add_name_of_fakul">Введите название факультета</string>
+    <string name="name_">Имя:</string>
+    <string name="surname">Фамилия:</string>
+    <string name="middle_name">Отчество:</string>
+    <string name="birth_date">Дата рождения: дд/мм/гг</string>
+    <string name="group">Группа:</string>
+    <string name="fakul">Факультет:</string>
+    <string name="change">Изменить</string>
+
+</resources>
